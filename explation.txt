@@ -1,0 +1,3 @@
+saperate file me connection chahiye tho 
+ 
+const aliensRoute= require('./routers/aliens');  :- first r
